@@ -1,6 +1,6 @@
 {
   "name": "rpqb_array_functions",
-  "version": "1.0.3",
+  "version": "1.1.4",
   "description": "This package contains sum of the numbers in an array,difference of two arrays,addition of two arrays,reverse the array,maximum and minimum of an array,array contains number or string.",
   "main": "index.js",
   "scripts": {
