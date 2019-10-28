@@ -19,6 +19,6 @@
 
 **console.log(array_concat(ar,ar1)) // expected restul is ["3","4","6","7","9","4"]**
 
-**console.log(array_adding_element_inbetween(ar,element,ar1))   //restult is equal to ["3","4","6","1000","7","9","4"]**
+**console.log(array_adding_element_inbetween(ar,element,ar1))   //restult is equal to ["3","4","6","10000","7","9","4"]**
 
 **console.log(array_with_keys(ar))  // result is [[0,"3],[1,"4],[2,"6"]]**
